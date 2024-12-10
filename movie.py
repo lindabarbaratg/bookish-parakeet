@@ -142,4 +142,3 @@ with open('id.csv', 'r') as csv_file:
                 
         except:
             print("Terjadi Error")
-            driver.close()
